@@ -2,7 +2,7 @@
 // Morgan Barksdale
 // 10 Aug 2013
 
-package 
+package main
 import "fmt"
 
 func main() {
