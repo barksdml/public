@@ -1,5 +1,5 @@
 // HelloWorld.go
-// Morgan Barksdal
+// Morgan Barksdale
 
 package main
 import "fmt"
