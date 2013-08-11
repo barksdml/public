@@ -5,8 +5,8 @@
 package main
 import "fmt"
 
+// test1
 func main() {
 	fmt.Println("Hello, world.")
 }
 
-// hmmm...
