@@ -7,4 +7,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello, world.")
+	fmt.Prinntln("This version is very experimental.")
 }
